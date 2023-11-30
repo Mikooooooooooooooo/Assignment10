@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Current Date and Time</title>
+    <style>
+       body {    
+        font-family: 'Arial', sans-serif;
+        text-align: center;    
+        margin: 0;
+        padding: 0;    
+        height: 100vh;
+        display: flex;   
+        justify-content: center;
+        align-items: center; 
+        background: linear-gradient(to bottom right, #3498db, #2ecc71);
+        color: #fff;
+        }
+        #datetime {
+            font-size: 3em;    
+            padding: 20px;
+            border: 2px solid #fff;  
+            border-radius: 10px;
+            background-color: rgba(255, 255, 255, 0.1);
+        }
+    </style>
+</head>
+
+<body>
+    <div id="datetime"></div>
+    <script>
+       function updateDateTime() { 
+    var now = new Date(); 
+ 
+    var dateOptions = { weekday: 'long', year: 'numeric', month: 'long', day: 'numeric' }; 
+    var timeOptions = { hour: '2-digit', minute: '2-digit', second: '2-digit', hour12: false }; 
+ 
+    var dateString = now.toLocaleDateString('en-US', dateOptions); 
+    var timeString = now.toLocaleTimeString('en-US', timeOptions); 
+ 
+    var dateTimeString = dateString + '<br>' + timeString; 
+ 
+    document.getElementById('datetime').innerHTML = dateTimeString; 
+} 
+ 
+// Update the date and time every second 
+setInterval(updateDateTime, 1000); 
+ 
+// Initial call to display date and time immediately 
+updateDateTime();
+
+    </script>
+</body>
+
+</html>
