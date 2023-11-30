@@ -23,6 +23,5 @@ it will show current time and date
      I am student
      I am studying at uni SDU
      I am 18 years old
-     I know 4 languages
-
-Aimat eshak kashan tamak pisresn
+     I know 4 language
+Banan alp jein bolmasaasdasdasdasd 
