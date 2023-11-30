@@ -1,5 +1,8 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
+Members: 
+        1.Kazhymurat Miras 220107139
+        2.Syrym Batyrkhan 220107051
+        3.Zhantore Zhapparov 220107064
+        
 Karaganda sila 09 alaash
 
 =======
