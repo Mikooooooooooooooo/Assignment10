@@ -1,3 +1,5 @@
+Karaganda sila 09 alaash
+
 1. Develop/Branch: The develop branch is the integration branch where all features are merged before being released. It represents the latest development state.
 
 2. Feature Branches: Feature branches are created for the development of new features or enhancements. They are branched off from develop and merged back into develop upon completion.
@@ -20,5 +22,7 @@ it will show current time and date
      HEllo World
      I am student
      I am studying at uni SDU
-     I am 18 years old 
+     I am 18 years old
      I know 4 languages
+
+Aimat eshak kashan tamak pisresn
