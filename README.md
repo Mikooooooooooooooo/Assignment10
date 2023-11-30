@@ -20,3 +20,6 @@ it will show current time and date
      HEllo World
      I am student
      I am studying at uni SDU
+
+     hey you nigger
+     
