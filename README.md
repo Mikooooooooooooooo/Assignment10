@@ -20,3 +20,5 @@ it will show current time and date
      HEllo World
      I am student
      I am studying at uni SDU
+     I am 18 years old 
+     I know 4 languages
