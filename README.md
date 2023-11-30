@@ -1,9 +1,13 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 Karaganda sila 09 alaash
 
 =======
 Hello World
 >>>>>>> b4f1bf80657abbeea87ddba8b3762fcabb19a341
+=======
+Batyrkhan, to merge conflicts     
+>>>>>>> 51ace18b73a35f069afb91ca83055d1983c04ad5
 1. Develop/Branch: The develop branch is the integration branch where all features are merged before being released. It represents the latest development state.
 
 2. Feature Branches: Feature branches are created for the development of new features or enhancements. They are branched off from develop and merged back into develop upon completion.
