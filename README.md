@@ -16,3 +16,7 @@ it will show current time and date
              In the <style> section within the <head> tag, add the CSS styles for the page. Copy and paste the following styles
         3.  Add JavaScript to Display Date and Time
              In the <script> section within the <body> tag, add the JavaScript code to display the current date and time:
+
+     HEllo World
+     I am student
+     I am studying at uni SDU
